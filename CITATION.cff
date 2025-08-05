@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it using the information below."
+title: "Code for: A Multi-Objective Optimisation Framework for a VAWT-CAES-RO System"
+authors:
+  - family-names: "Alzahrani"
+    given-names: "Khalid"
+    orcid: "https://orcid.org/0009-0006-8487-7935" 
+version: "1.0.0" 
+doi: "10.5281/zenodo.xxxxxxx"
+date-released: 2025-08-05
+keywords:
+  - "VAWT"
+  - "CAES"
+  - "reverse osmosis"
+  - "desalination"
+  - "multi-objective optimization"
+  - "Techno-economic assessment"
+  - "Life cycle assessment"
+license: "MIT"
+repository-code: "https://github.com/[your-username]/[your-repository-name]"

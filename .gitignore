@@ -1,0 +1,22 @@
+# Ignore MATLAB and system specific files
+*.asv
+*.slxc
+*.mex*
+*.p
+*~
+._*
+.DS_Store
+
+# Ignore all Excel files by default
+*.xlsx
+*.xls
+*.csv
+
+# --- IMPORTANT ---
+# These files are exceptions for the specific Excel data files needed.
+# The '!' negates the ignore rule for a specific file path.
+!code/ALL_VAWTs_CAES_RO_Cases.xlsx
+!data/ALL_VAWTs_CAES_RO_Cases.xlsx
+!code/simulink_random_LCOW_CO2_filtered.xlsx
+!data/simulink_random_LCOW_CO2_filtered.xlsx
+!data/RO_WAVE_Grid_Samples.xlsx
