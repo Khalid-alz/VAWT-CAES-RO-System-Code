@@ -6,8 +6,8 @@ authors:
     given-names: "Khalid"
     orcid: "https://orcid.org/0009-0006-8487-7935" 
 version: "1.0.0" 
-doi: "10.5281/zenodo.xxxxxxx"
-date-released: 2025-08-05
+doi: "https://doi.org/10.5281/zenodo.16749276"
+date-released: 2025-08-06
 keywords:
   - "VAWT"
   - "CAES"
@@ -17,4 +17,4 @@ keywords:
   - "Techno-economic assessment"
   - "Life cycle assessment"
 license: "MIT"
-repository-code: "https://github.com/[your-username]/[your-repository-name]"
+repository-code: "https://github.com/Khalid-alz/VAWT-CAES-RO-System-Code"
