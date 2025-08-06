@@ -1,12 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software in your work, please cite it using the information below."
-title: "Code for: A Multi-Objective Optimisation Framework for a VAWT-CAES-RO System"
+title: "Code for: Modelling and multi-objective optimisation of a wind-driven desalination system"
 authors:
   - family-names: "Alzahrani"
     given-names: "Khalid"
     orcid: "https://orcid.org/0009-0006-8487-7935" 
-version: "1.0.0" 
-doi: "https://doi.org/10.5281/zenodo.16749276"
+version: "1.0.2" 
+doi: "https://doi.org/10.5281/zenodo.16749275"
 date-released: 2025-08-06
 keywords:
   - "VAWT"

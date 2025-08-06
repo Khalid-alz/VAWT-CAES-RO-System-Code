@@ -91,4 +91,4 @@ If you use this code in your research, please cite both the repository and the a
     > [the full paper citation here once it is published]
 
 2.  **Software Citation:**
-    > Alzahrani, K. (2025). Code for: A Multi-Objective Optimisation Framework for a VAWT-CAES-RO System (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16749276
+    > Alzahrani, K. (2025). Code for: Modelling and multi-objective optimisation of a wind-driven desalination system (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.16749275
