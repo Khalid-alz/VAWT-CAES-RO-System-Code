@@ -1,4 +1,4 @@
-# MATLAB Code for Multi-Objective Optimisation of a VAWT-CAES-RO System
+# MATLAB Code for modelling and multi-objective optimisation of a wind-driven desalination system
 
 This repository contains the MATLAB source code and associated data files to support the findings of the paper: [To be included upon publication].
 
