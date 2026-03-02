@@ -5,6 +5,7 @@ This repository contains the MATLAB source code and associated data files to sup
 The code facilitates the simulation, analysis, and multi-objective optimisation of a renewable energy system combining a Vertical Axis Wind Turbine (VAWT), Compressed Air Energy Storage (CAES), and a Reverse Osmosis (RO) desalination unit.
 
 [![DOI](https://zenodo.org/badge/1032837679.svg)](https://doi.org/10.5281/zenodo.16749275)
+[![DOI]](https://doi.org/10.1016/j.nexus.2026.100686)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## System Requirements
@@ -88,7 +89,8 @@ This project is licensed under the MIT Licence. See the `LICENCE` file for detai
 If you use this code in your research, please cite both the repository and the associated paper.
 
 1.  **Paper Citation:**
-    > [the full paper citation here once it is published]
+    > Alzahrani KM, Rojas-Michaga MF, Ma L, Ingham D, Pourkashanian M. Multi-objective optimisation of a seawater reverse osmosis desalination system driven by vertical axis wind turbines: Technical, economic, and environmental                    perspectives. Energy Nexus 2026;21:100686. https://doi.org/10.1016/j.nexus.2026.100686.
+  
 
 2.  **Software Citation:**
     > Alzahrani, K. (2025). Code for: Modelling and multi-objective optimisation of a wind-driven desalination system (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.16749275
