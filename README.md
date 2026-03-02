@@ -5,7 +5,7 @@ This repository contains the MATLAB source code and associated data files to sup
 The code facilitates the simulation, analysis, and multi-objective optimisation of a renewable energy system combining a Vertical Axis Wind Turbine (VAWT), Compressed Air Energy Storage (CAES), and a Reverse Osmosis (RO) desalination unit.
 
 [![DOI](https://zenodo.org/badge/1032837679.svg)](https://doi.org/10.5281/zenodo.16749275)
-[![DOI]](https://doi.org/10.1016/j.nexus.2026.100686)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.nexus.2026.100686-blue)](https://doi.org/10.1016/j.nexus.2026.100686)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## System Requirements
